@@ -1,0 +1,11 @@
+$color-primary: #ececec;
+
+.boxy {
+  background-color: $color-primary;
+  height: 300px;
+  width: 300px;
+
+  &-title {
+    font-size: 30px;
+  }
+}
